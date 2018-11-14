@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo_Keyboard</string>
+    <string name="toast_speech_error">我不懂</string>
+
+</resources>
